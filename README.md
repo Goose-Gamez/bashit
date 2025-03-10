@@ -1,3 +1,3 @@
 # QuebecBashing
 
-A testiing repository for Canada's finest.
+A testiing reposiasdatory for Canada's finest.
